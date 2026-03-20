@@ -1,0 +1,57 @@
+body {
+    background-color: #261B25;
+}
+
+.inp {
+    width: 250px;
+    height: 40px;
+    left: 453px;
+    opacity: 1;
+    border-radius: 4px;
+    border-width: 1px;
+    /* background-color: #261B25; */
+    border: 2px solid #D39E47;
+    background-color: #261B25;
+    color: white;
+
+}
+
+.btn {
+    width: 90px;
+    height: 45px;
+    opacity: 1;
+    border-radius: 4px;
+    background-color: #D39E47;
+
+}
+
+.text {
+    color: #D39E47;
+    margin-left: 55px;
+}
+
+/* .box {
+    margin-left: 500px;
+    margin-top: 259px;
+} */
+
+.quti {
+    color: white;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+.box__ota {
+    margin-left: 500px;
+    margin-top: 260px;
+}
+
+.viloyat {
+    color: white;
+    margin-left: 550px;
+    margin-top: 20px
+}
+.mm{
+    color: #D39E47;
+    margin-left: 50px;
+}
